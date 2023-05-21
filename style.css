@@ -1,0 +1,20 @@
+body{
+    /*(#CFBCF4, #FFCCF4, #FFF2D9, #82D9BC, #089CC0)*/
+    background-image: linear-gradient(to bottom right, #CFBCF4, #FFCCF4, #FFF2D9);
+  }
+
+.nero{
+    background-color: lightblue;
+    height: 64px;
+}
+
+.propic{
+    height: 563px;
+    background-color: #FFF2D9;
+    border-radius: 200px;
+}
+
+#floatingTextarea{
+  height: 100px;
+}
+
