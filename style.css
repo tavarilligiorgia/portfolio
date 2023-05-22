@@ -1,11 +1,11 @@
 body{
     /*(#CFBCF4, #FFCCF4, #FFF2D9, #82D9BC, #089CC0)*/
-    background-image: linear-gradient(to bottom right, #CFBCF4, #FFCCF4, #FFF2D9);
+    background-image: linear-gradient(to bottom right,  rgb(207, 188, 244), #FFCCF450, #FFF2D950);
+    padding-top: 80px;
   }
 
-.nero{
-    background-color: lightblue;
-    height: 64px;
+.mainmenu{
+  background-color: rgba(245, 245, 245, 0.5);
 }
 
 .propic{
